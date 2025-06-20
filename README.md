@@ -1,1 +1,1 @@
-This repository contains the most important works I from my undergraduate thesis.
+This repository contains the most important works from my undergraduate thesis.
